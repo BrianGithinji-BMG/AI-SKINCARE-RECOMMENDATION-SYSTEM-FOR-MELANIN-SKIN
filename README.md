@@ -2,12 +2,6 @@
 
 ![2d248f5507752726ddc2198b39071e4e](https://github.com/user-attachments/assets/9c7a2247-b758-4aee-8bc7-50fa0bf76f2d)
 
-### Team Members
-* Brian Githinji
-* Grace Gitau
-* Maureen Imanene
-* Esther Cheruiyot
-
 ### Table of Contents
 
 - [Business Overview](#business-overview)
